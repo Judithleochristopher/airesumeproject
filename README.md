@@ -33,7 +33,7 @@ Example: https://your-app.netlify.app
 
 ---
 
-## 🛠️ Installation
+# 🛠️ Installation
 
 Clone the repo:
 
